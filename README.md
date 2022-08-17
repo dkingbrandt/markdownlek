@@ -14,15 +14,6 @@ userstory 001
 let firstname = "Rebecca";
 ```
 
-
-
-
-userstory 001
-```javascript
-
-let name = "dan";
-
-```
 userstory 007
 
 **this is bold text**
@@ -31,7 +22,7 @@ userstory 007
 
 userstory 005
 
-<<<<<<< HEAD
+
 ```javascript
 
 <a href="https://www.google.com" />
