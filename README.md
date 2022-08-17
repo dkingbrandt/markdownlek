@@ -1,11 +1,18 @@
 
 # markdownlek
+userstory 002
+```javascript
+let firstname = "Rebecca";
+```
+
+
+# markdownlek
 
 userstory 001
-```javascript{
+```javascript
 
-let name = "dan"
-}
+let name = "dan";
+
 ```
 userstory 007
 
@@ -15,8 +22,12 @@ userstory 007
 
 userstory 005
 
+<<<<<<< HEAD
 ```javascript
 
 <a href="https://www.google.com" />
 
 ```
+
+
+
