@@ -49,9 +49,9 @@ userstory 006
 
 userstory 010
 
-+list
--list
-*list
++ list
+- list
+* list
 
 
 <ol>
