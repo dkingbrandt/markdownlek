@@ -1,4 +1,18 @@
+
 # markdownlek
+userstory 002
 ```javascript
-let name = "Rebecca";
+let firstname = "Rebecca";
 ```
+
+
+# markdownlek
+
+userstory 001
+```javascript
+
+let name = "dan";
+
+```
+
+
