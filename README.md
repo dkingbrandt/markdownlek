@@ -10,9 +10,6 @@ userstory 002
 let firstname = "Rebecca";
 ```
 
-
-
-
 userstory 001
 ```javascript
 
@@ -27,7 +24,7 @@ userstory 007
 
 userstory 005
 
-<<<<<<< HEAD
+
 ```javascript
 
 <a href="https://www.google.com" />
@@ -37,4 +34,9 @@ userstory 005
 userstory 003
 
 <img src="https://staging.dinodlarvan.hemsida.eu/wp-content/uploads/2019/04/Rosenskära-Gazebo-Red-elson-Garden.jpg " alt="blom jävel " />
+
+userstory 010
++list
+-list
+*list
 
