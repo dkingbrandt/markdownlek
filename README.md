@@ -1,21 +1,19 @@
 # markdownlek
 
-userstory 003
-```javascript
-let myname = "Annika";
-```
-
 userstory 002
-```javascript
-let firstname = "Rebecca";
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
 ```
 
 userstory 001
 ```javascript
-
-let name = "dan";
-
+let firstname = "Rebecca";
 ```
+
 userstory 007
 
 **this is bold text**
@@ -35,8 +33,10 @@ userstory 003
 
 <img src="https://staging.dinodlarvan.hemsida.eu/wp-content/uploads/2019/04/Rosenskära-Gazebo-Red-elson-Garden.jpg " alt="blom jävel " />
 
+
 userstory 010
 +list
 -list
 *list
+
 
