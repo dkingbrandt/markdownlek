@@ -14,6 +14,14 @@ userstory 001
 let firstname = "Rebecca";
 ```
 
+userstory 004
+
+```javascript
+
+for(let i=0 ;i>9 ;i++){
+{
+```
+
 userstory 007
 
 **this is bold text**
