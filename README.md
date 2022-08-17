@@ -33,6 +33,11 @@ userstory 003
 
 <img src="https://staging.dinodlarvan.hemsida.eu/wp-content/uploads/2019/04/Rosenskära-Gazebo-Red-elson-Garden.jpg " alt="blom jävel " />
 
+userstory 006
+
+| table | size |
+|------ |------|
+|matbord|140 cm|
 
 userstory 010
 
