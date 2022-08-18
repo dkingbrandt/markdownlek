@@ -87,7 +87,7 @@ I need to highlight these <mark> very important words </mark>.
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 >
->i> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 ## userstory 013
 
