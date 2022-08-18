@@ -91,9 +91,9 @@ I need to highlight these <mark> very important words </mark>.
 
 ## userstory 013
 
-```sequence
-Alice->Bob: Hello Bob, how are you?
+``` sequence
+Alice-> Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
+Bob--> Alice: I am good thanks!
 ```
 
