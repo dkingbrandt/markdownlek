@@ -96,4 +96,9 @@ Alice-> Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks
 Bob--> Alice: I am good thanks!
 ```
+## userstory 012
+```mermaid
+graph LR
+A[Dan] -->B(bor i) -->C[hus]
+```
 
