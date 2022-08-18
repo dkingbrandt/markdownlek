@@ -101,4 +101,14 @@ Bob--> Alice: I am good thanks!
 graph LR
 A[Dan] -->B(bor i) -->C[hus]
 ```
-
+## usestory 013
+```mermaid
+%% Example of sequence diagram
+sequenceDiagram
+Alice->>Bob: Hello Bob, how are you?
+alt is sick
+Bob->>Alice: Not so good :(
+else is well
+Bob->>Alice: Feeling good
+end
+```
