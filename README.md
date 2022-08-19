@@ -43,7 +43,7 @@ for(let i=0 ;i>9 ;i++){
 
 ## userstory 003
 
-<img src="https://staging.dinodlarvan.hemsida.eu/wp-content/uploads/2019/04/Rosenskära-Gazebo-Red-elson-Garden.jpg " alt="blom jävel " />
+<img src="https://staging.dinodlarvan.hemsida.eu/wp-content/uploads/2019/04/Rosenskära-Gazebo-Red-elson-Garden.jpg " width="10px" height="10px" alt="blom jävel " />
 
 ## userstory 006
 
