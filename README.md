@@ -11,7 +11,7 @@ public class Main {
 
 ## userstory 001
 ```javascript
-let firstname = "Rebecca";
+let firstname = "Elizabeth";
 ```
 
 ## userstory 004
